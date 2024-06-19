@@ -56,7 +56,7 @@ dependencies {
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     //Converter em Json
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
-
+    // image fetch
     implementation("io.coil-kt:coil-compose:2.4.0")
 
     implementation(libs.androidx.core.ktx)
